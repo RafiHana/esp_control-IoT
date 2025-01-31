@@ -1,5 +1,5 @@
 # esp_control
 
-Control Robot Mecanum with joystick
+Code for the device connected to the MyHealt app
 
  
